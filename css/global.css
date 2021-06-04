@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.loginRegisterBackground {
+    background-color: #F5FCFF;
+    height: 100vh;
+    width: 100%;
+}
